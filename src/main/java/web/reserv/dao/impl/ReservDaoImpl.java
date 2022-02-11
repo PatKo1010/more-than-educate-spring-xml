@@ -1,4 +1,4 @@
-package web.reservation.dao.impl;
+package web.reserv.dao.impl;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import javax.persistence.PersistenceContext;
 import org.hibernate.Session;
 import org.springframework.stereotype.Repository;
 
-import web.reservation.dao.ReservDaoInterface;
-import web.reservation.entity.ReservTimeBean;
+import web.reserv.dao.ReservDaoInterface;
+import web.reserv.entity.ReservTimeBean;
 
 @Repository
 public class ReservDaoImpl implements ReservDaoInterface{

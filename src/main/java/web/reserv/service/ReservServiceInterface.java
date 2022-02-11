@@ -1,6 +1,6 @@
-package web.reservation.service;
+package web.reserv.service;
 
-import web.reservation.entity.ReservTimeBean;
+import web.reserv.entity.ReservTimeBean;
 
 public interface ReservServiceInterface {
 	public abstract ReservTimeBean select(Integer id);

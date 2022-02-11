@@ -1,4 +1,4 @@
-package web.reservation.entity;
+package web.reserv.entity;
 
 import java.io.Serializable;
 import java.util.Date;

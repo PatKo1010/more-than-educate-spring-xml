@@ -1,8 +1,8 @@
-package web.reservation.dao;
+package web.reserv.dao;
 
 import java.util.List;
 
-import web.reservation.entity.ReservTimeBean;
+import web.reserv.entity.ReservTimeBean;
 
 public interface ReservDaoInterface {
 	public abstract ReservTimeBean select(Integer id);
